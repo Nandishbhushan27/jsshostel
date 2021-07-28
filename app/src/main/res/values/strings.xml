@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSS Hostel</string>
+    <string name="day">DAY</string>
+    <string name="add">add</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+</resources>

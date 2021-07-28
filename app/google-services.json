@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464227392263",
+    "project_id": "jss-hostel",
+    "storage_bucket": "jss-hostel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464227392263:android:b520b09c9c132bdbf903a2",
+        "android_client_info": {
+          "package_name": "com.example.jsshostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464227392263-n3apnsr42g1ju3vvcpi8osh2shn8mvmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZeN0vQbQE6xqdTOOPqX6i8MlR4-TULOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464227392263-n3apnsr42g1ju3vvcpi8osh2shn8mvmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
